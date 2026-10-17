@@ -1,10 +1,14 @@
 # Hi, I'm Ilya 👋
 
-I'm a frontend engineer building web apps with React, TypeScript, and Next.js. I care about making them pleasant to use and keeping the code easy to change.
+I'm a frontend engineer working with React, TypeScript, and Next.js. I enjoy building web apps, and I'm at my best when I can also improve the way a team builds them.
 
-Recently, I helped an existing app adopt Feature-Sliced Design—planning the structure, moving code into it, and refining it as the product changed. I also help our team use AI agents in day-to-day development, with clear conventions that keep their work consistent with the rest of the codebase.
+### What I've worked on
 
-I'm interested in AI products and web apps people come back to. If you have an idea or a team I could help, let's talk.
+In my current role, I worked through the full transition of an existing frontend to Feature-Sliced Design: shaping the structure, migrating the code, and continuing to evolve it as the product changed. For me, good architecture makes the next feature, the next teammate, and the next release easier.
+
+I also developed project rules and coding patterns for the AI agents our team uses. Giving them the right context has made their changes more consistent and easier to maintain. I use Conventional Commits to keep the history readable and like to see tasks through to release.
+
+I'm especially interested in AI products and web apps people return to. If you're building something in that space, let's talk.
 
 ### 🛠️ Tools I use
 
