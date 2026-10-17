@@ -16,7 +16,7 @@ I'm especially interested in useful AI products and web apps people come back to
 ### 🛠️ Tools I use
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,typescript,nextjs&perline=6" alt="React, TypeScript, Next.js" />
+  <img src="https://skillicons.dev/icons?i=react,typescript,nextjs,go&perline=6" alt="React, TypeScript, Next.js, Go" />
 </p>
 
 ### 📊 GitHub activity
