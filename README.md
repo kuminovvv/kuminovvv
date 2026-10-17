@@ -1,27 +1,23 @@
 # Hi, I'm Ilya 👋
 
-**Software Engineer · React · TypeScript · Next.js**
+I'm a frontend engineer building web apps with React, TypeScript, and Next.js. I care about making them pleasant to use and keeping the code easy to change.
 
-I build web products and focus on frontend architecture, developer tooling, and AI-assisted development.
+Recently, I helped an existing app adopt Feature-Sliced Design—planning the structure, moving code into it, and refining it as the product changed. I also help our team use AI agents in day-to-day development, with clear conventions that keep their work consistent with the rest of the codebase.
 
-### ⚙️ Engineering Focus
+I'm interested in AI products and web apps people come back to. If you have an idea or a team I could help, let's talk.
 
-- Feature-Sliced Design (FSD): architecture design, migration, and ongoing evolution
-- AI-assisted development: agent guidelines, reusable coding patterns, and team conventions
-- Engineering workflows that support consistent code, reliable agent execution, and maintainability
-
-### 🛠️ Languages & Tools
+### 🛠️ Tools I use
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,typescript,nextjs&perline=6" alt="React, TypeScript, Next.js" />
 </p>
 
-### 📊 GitHub Dashboard
+### 📊 GitHub activity
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=kuminovvv&show_icons=true&hide_border=true&theme=transparent" height="165" alt="GitHub activity statistics" />
 </p>
 
-### 📫 Contact
+### 📫 Say hello
 
 [Telegram](https://t.me/kuminovvv)
