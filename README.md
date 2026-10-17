@@ -4,6 +4,12 @@
 
 I build web products and focus on frontend architecture, developer tooling, and AI-assisted development.
 
+### ⚙️ Engineering Focus
+
+- Feature-Sliced Design (FSD): architecture design, migration, and ongoing evolution
+- AI-assisted development: agent guidelines, reusable coding patterns, and team conventions
+- Engineering workflows that support consistent code, reliable agent execution, and maintainability
+
 ### 🛠️ Languages & Tools
 
 <p align="left">
