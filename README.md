@@ -1,6 +1,6 @@
 # Hi, I'm Ilya 👋
 
-I'm a frontend engineer with 6+ years of professional experience. I build web applications with React and TypeScript, and I care about what happens after a feature ships: performance, clear code, and how easily a team can keep moving.
+I'm a frontend engineer with 6+ years of professional experience. I build web applications with React and TypeScript and also write Go. I care about what happens after a feature ships: performance, clear code, and how easily a team can keep moving.
 
 ### A few things I've worked on
 
