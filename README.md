@@ -1,14 +1,17 @@
 # Hi, I'm Ilya 👋
 
-I'm a frontend engineer working with React, TypeScript, and Next.js. I enjoy building web apps, and I'm at my best when I can also improve the way a team builds them.
+I'm a frontend engineer with 6+ years of professional experience. I build web applications with React and TypeScript, and I care about what happens after a feature ships: performance, clear code, and how easily a team can keep moving.
 
-### What I've worked on
+### A few things I've worked on
 
-In my current role, I worked through the full transition of an existing frontend to Feature-Sliced Design: shaping the structure, migrating the code, and continuing to evolve it as the product changed. For me, good architecture makes the next feature, the next teammate, and the next release easier.
+- Built a reusable frontend package for interactive image annotation and visualization, including coordinate handling and backend integration.
+- Helped improve an application's load time by about 30% through frontend restructuring and lazy loading.
+- Initiated a move toward Feature-Sliced Design and helped migrate an existing codebase with the team.
+- Introduced AI-assisted development practices to a frontend team, writing project guidance so agent-written changes follow the same conventions as human-written code.
 
-I also developed project rules and coding patterns for the AI agents our team uses. Giving them the right context has made their changes more consistent and easier to maintain. I use Conventional Commits to keep the history readable and like to see tasks through to release.
+I also review code, support teammates with technical decisions, and improve the small parts of delivery that add up over time, from commit history to package releases.
 
-I'm especially interested in AI products and web apps people return to. If you're building something in that space, let's talk.
+I'm especially interested in useful AI products and web apps people come back to. If you're building one, let's talk.
 
 ### 🛠️ Tools I use
 
